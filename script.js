@@ -47,5 +47,5 @@ player.addEventListener("click", (event) => {
 
 reset.addEventListener("click", (event) => {
   playerScore.innerText = 0;
-  computerScore.innerText = 10;
+  computerScore.innerText = 0;
 });
